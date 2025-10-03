@@ -4,5 +4,5 @@
 ### All my process of training CTF in pico-ctf will be upload date to date
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b9d0e22-0bab-4c7b-967c-6cf5a557468b" alt="Ảnh minh họa" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f661f670-f112-4a03-84a6-2ab8feffd40e" alt="Ảnh minh họa" width="949" height="676/>
 
